@@ -1,0 +1,1 @@
+Inicializated text
